@@ -1,6 +1,6 @@
 ### Hi there! I'm Matheus Diori 👋
 
-- 👩🏻‍💻 Fullstack Developer Student
+- 👩🏻‍💻 Fullstack Developer
 
   ## ⚡ Stack
 
